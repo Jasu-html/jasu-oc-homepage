@@ -23,7 +23,7 @@ This is my hands-on prelim exam website. If you're lucky enough to be here, feel
 If you want to run this website locally:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Jasu-html/jasu-oc-homepage.git
 2. Open the index.html file in your browser.
 
 ---
