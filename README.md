@@ -7,7 +7,7 @@ This is my hands-on prelim exam website. If you're lucky enough to be here, feel
 ## 🧐 **What's inside?** 
 
 - A basic website made with HTML and styled with simple elements.
-- The site showcases **Olivares College**, so you'll find sections like **About**, **Services**, and **Contacts**. It also includes a map to help locate the campus.
+- The site showcases **Olivarez College**, so you'll find sections like **About**, **Services**, and **Contacts**. It also includes a map to help locate the campus.
 
 ---
 
